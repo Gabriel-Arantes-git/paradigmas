@@ -1,0 +1,11 @@
+https://www.linkedin.com/jobs/view/node-js-developer-latam-at-distillery-3564488767?
+
+Paradigma:
+Programação Imperativa e Procedural dentro do HTML.
+
+EJS não define o salário. Ele é apenas uma tecnologia usada dentro do desenvolvimento web com Node.js.
+No Brasil, alguém que trabalha com Node.js, TypeScript, EJS e tecnologias relacionadas pode ganhar aproximadamente:
+
+Júnior: R$ 3.000 a R$ 5.000
+Pleno: R$ 5.000 a R$ 9.000
+Sênior: R$ 10.000 a R$ 16.000+
